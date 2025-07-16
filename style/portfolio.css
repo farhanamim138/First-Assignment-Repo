@@ -1,0 +1,45 @@
+
+.image{
+    background-image: url(../Assets/Hero-bg.png);
+    
+}
+
+
+
+
+
+figure{
+    display: flex;
+  justify-content: space-between;
+  
+}
+.header{
+    text-align: center;
+    text-decoration: #252432;
+    font-size: 40px;
+}
+button{
+    background-color: #4E47FF;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 10px 30px;
+    border: none;
+    
+    
+    
+}
+.image{
+
+}
+.banner{
+    display: flex;
+
+justify-content: space-between;
+align-items: center;
+}
+
+.banner img{
+    weight: 403px;
+    height: 328px;
+    border-radius: 60px;
+}
